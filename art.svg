@@ -1,11 +1,40 @@
+<!-- ######### TUTORIAL TO MALE YOUR SVG IMAGE FILE WITH CODE -->
+<!-- ################### MAIN ELEMENTS  -->
+<!--
+  *******  THE FOLLWING ARE ESSENTIAL ELEMENTS FOR YOUR SVG FILE
+  ##### LINE
+  ##### RECTANGLE
+  ##### SPHERE
+  ##### PATH
+  ##### TEXT
+  ##### POLYGON
+  ##### CIRCLE
+  ##### ELLIPSE 
+-->
+
+<!-- ################ POSITIONING -->
+
+<!-- 
+
+####### POSITINING IN GIFS WORK WITH X,Y CODINATE SYSTEM 
+MEANING YOU HAVE TO PROVIDE THE X,Y CODINATE FOR THE 
+ELEMENT YOU ARE PLAYING WITH ... 
+
+####### FOR LINE AND PATH THIS CHANGES 
+-->
+
+<!-- yoy should have a tag Kinda like HTML wraps everything -->
 <svg width="400" height="300" xmlns="http://www.w3.org/2000/svg" fill="black">
 
+  <!-- rect element represent a rectangle and you can set its properties -->
   <rect height="100%" width="25%" x="0%" y="0" fill="#7469B6"/>
   <rect height="100%" width="25%" x="25%" y="0" fill="#AD88C6"/>
   <rect height="100%" width="25%" x="50%" y="0" fill="#E1AFD1"/>
   <rect height="100%" width="25%" x="75%" y="0" fill="#FFE6E6"/>
 
   
+
+  <!-- ############# FOR CIRCLES POSITING IS WITH CX -->
   <circle r="30" cx="25%" cy="50%" fill="#AD88C6"/>
   <circle r="30" cx="12.5%" cy="50%" fill="#E1AFD1"/>
 
