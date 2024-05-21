@@ -1,0 +1,42 @@
+<svg width="400" height="300" xmlns="http://www.w3.org/2000/svg">
+
+  <rect height="100%" width="25%" x="0%" y="0" fill="#7469B6"/>
+  <rect height="100%" width="25%" x="25%" y="0" fill="#AD88C6"/>
+  <rect height="100%" width="25%" x="50%" y="0" fill="#E1AFD1"/>
+  <rect height="100%" width="25%" x="75%" y="0" fill="#FFE6E6"/>
+
+  
+  <circle r="30" cx="25%" cy="50%" fill="#AD88C6"/>
+  <circle r="30" cx="12.5%" cy="50%" fill="#E1AFD1"/>
+
+  <circle r="30" cx="37.5%" cy="50%" fill="#7469B6" />
+  <circle r="30" cx="50%" cy="50%" fill="#E1AFD1"/>
+
+
+  <circle r="30" cx="62.5%" cy="50%" fill="#AD88C6" />
+  <circle r="30" cx="75%" cy="50%" fill="#FFE6E6"/>
+
+  <circle r="30" cx="87.5%" cy="50%" fill="#E1AFD1"/>
+  
+
+
+
+
+  
+  
+
+  <ellipse rx="27%" ry="28%" cy="30%" cx="50%" />
+  <ellipse rx="10" ry="18" cx="35%" cy="50%" fill="#49243E"/>
+  <ellipse rx="5" ry="10" cx="35%" cy="50%" fill="#FFE6E6"/>
+  <ellipse rx="10" ry="18" cx="65%" cy="50%" fill="#49243E"/>
+  <ellipse rx="5" ry="10" cx="65%" cy="50%" fill="#FFE6E6"/>
+  
+  
+  <ellipse ry="25%" rx="15%" fill="#49243E" cx="50%" cy="50%" />
+
+  <rect height="15%" width="30%" x="34.9%" y="22%" rx="" fill="#"/>
+  <rect height="10%" width="10%" x="45%" y="60%" rx="30" fill="#FFE6E6"/>
+
+
+
+</svg>
