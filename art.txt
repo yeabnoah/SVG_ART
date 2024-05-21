@@ -24,6 +24,11 @@ ELEMENT YOU ARE PLAYING WITH ...
 -->
 
 <!-- yoy should have a tag Kinda like HTML wraps everything -->
+
+
+
+
+<!-- this is my example project -->
 <svg width="400" height="300" xmlns="http://www.w3.org/2000/svg" fill="black">
 
   <!-- rect element represent a rectangle and you can set its properties -->
